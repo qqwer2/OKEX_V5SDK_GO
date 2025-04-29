@@ -7,9 +7,9 @@ OKEX go版本的v5sdk，仅供学习交流使用。
 ``` go
     // 设置您的APIKey
 	apikey := APIKeyInfo{
-		ApiKey:     "xxxx",
-		SecKey:     "xxxx",
-		PassPhrase: "xxxx",
+		ApiKey:     "a2dc7aa7-2085-4a3f-bdc8-63dadc27d27e",
+		SecKey:     "31696B878D91C470045C750AD2260A7A",
+		PassPhrase: "C2575563775@qq.com",
 	}
 
 	// 第三个参数代表是否为模拟环境，更多信息查看接口说明
